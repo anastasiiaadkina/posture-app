@@ -1,0 +1,50 @@
+/* Main Window Background */
+QWidget {
+    background-color: #ffffff;
+    color: #2d3436;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+/* Header Title */
+QLabel#title {
+    font-size: 22px;
+    font-weight: 800;
+    color: #0984e3;
+}
+
+/* Timer Pill */
+QLabel#timer {
+    font-size: 14px;
+    font-weight: 600;
+    color: #636e72;
+    background-color: #f1f2f6;
+    padding: 4px 12px;
+    border-radius: 12px;
+}
+
+/* Camera and Avatar Containers */
+QLabel#camera_display {
+    background-color: #f8f9fa;
+    border: 2px solid #f1f2f6;
+    border-radius: 15px;
+}
+
+/* Status Messages */
+QLabel#statusGood, QLabel#statusBad {
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+QLabel#statusGood {
+    background-color: #e3fcef;
+    color: #00b894;
+    border: 1px solid #55efc4;
+}
+
+QLabel#statusBad {
+    background-color: #fff0f0;
+    color: #d63031;
+    border: 1px solid #ff7675;
+}
