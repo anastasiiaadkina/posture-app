@@ -44,3 +44,34 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 python app.py
+```
+---
+
+###🍎 macOS
+Requirements:
+
+Python 3.10+
+
+Webcam access enabled for Terminal/Python
+
+macOS 12+
+
+**Installation:**
+```bash
+git clone https://github.com/YOUR_USERNAME/StudyTag.git
+cd StudyTag
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
+python app.py
+```
+---
+
+###🪟 Windows
+Windows support is currently in development. A packaged .exe version will be available in future releases.
+
+
+
+
