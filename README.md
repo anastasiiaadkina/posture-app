@@ -47,7 +47,7 @@ python app.py
 ```
 ---
 
-###🍎 macOS
+### 🍎 macOS
 Requirements:
 
 Python 3.10+
@@ -69,8 +69,9 @@ python app.py
 ```
 ---
 
-###🪟 Windows
+### 🪟 Windows
 Windows support is currently in development. A packaged .exe version will be available in future releases.
+
 
 
 
